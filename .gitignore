@@ -15,3 +15,6 @@ npm-debug.log*
 .env.*.local
 *.log
 .DS_Store
+
+# Temporary AWS Account ID Masking
+lib/environments.ts
